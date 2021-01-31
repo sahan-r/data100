@@ -9,4 +9,4 @@ My name is Sahan Raghavan and I am a freshman at William and Mary. This is a rep
 
 ![](Rplotfirst.png)
 
-![](Rplotchallengequestionpath.png)
+![](Rplotpersonspathchallengeq.png)
