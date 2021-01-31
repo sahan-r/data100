@@ -8,3 +8,5 @@ My name is Sahan Raghavan and I am a freshman at William and Mary. This is a rep
 ## Getting Started with R
 
 ![](Rplotfirst.png)
+
+![](Rplotchallengequestionpath.png)
