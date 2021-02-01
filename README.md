@@ -5,3 +5,5 @@ My name is Sahan Raghavan and I am a freshman at William and Mary. This is a rep
 
 # Projects
 [Link to my first Project](https://github.com/sahan-r/data100/blob/main/GettingStartedWithR.md)
+
+[Link](GettingStardedWithR.md)
