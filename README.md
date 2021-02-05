@@ -4,7 +4,7 @@
 
 My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in neuroscience on the premed track. I was born in Philadelphia, Pennsylvania and I now live in Chantilly, Virginia. I love to travel and this is me on a trip to Italy!
 
-![](Screen Shot 2021-02-05 at 10.21.10 AM.png)
+![](Picofself.png)
 
 ## Informal Responses
 
