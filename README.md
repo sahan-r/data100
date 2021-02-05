@@ -1,4 +1,4 @@
-# My DATA100 Index of Semester Work
+# My DATA100 Index of Work
 
 ## About
 
