@@ -2,7 +2,7 @@
 
 ## About
 
-My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in neuroscience. I was born in Philadelphia, Pennsylvania and I now live in Chantilly, Viriginia.
+My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in neuroscience on the premed track. I was born in Philadelphia, Pennsylvania and I now live in Chantilly, Viriginia.
 
 ## Informal Responses
 
