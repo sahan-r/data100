@@ -11,3 +11,7 @@ My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in n
 [First Project-Getting Started With R](https://sahan-r.github.io/data100/GettingStartedWithR.html)
 
 ## Projects
+
+## Informal Reflections
+
+[First Reflection](https://sahan-r.github.io/data100/IFR1.html)
