@@ -14,4 +14,4 @@ My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in n
 
 ## Informal Reflections
 
-[First Reflection](ReflectionOne.md)(Blumenstock Reflection)
+[First Reflection](ReflectionOne.md)
