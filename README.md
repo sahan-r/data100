@@ -8,10 +8,10 @@ My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in n
 
 ## Informal Responses
 
-[First Project-Getting Started With R](https://sahan-r.github.io/data100/GettingStartedWithR.html)
+[First Project-Getting Started With R](GettingStartedWithR.md)
 
 ## Projects
 
 ## Informal Reflections
 
-[First Reflection](ReflectionOne.md)
+[First Reflection](firstreflection.md)
