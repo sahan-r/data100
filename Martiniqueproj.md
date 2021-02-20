@@ -1,4 +1,4 @@
 
 Here is a plot of Martinique:
 
-![](RplotMartinique.png)
+![](RplotMartiniquefix.png)
