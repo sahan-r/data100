@@ -13,7 +13,8 @@ My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in n
 ## Projects
 
 [Project 1](Martiniqueproj.md)
-[Project 1](project2.md)
+
+[Project 2](project2.md)
 
 ## Informal Reflections
 
