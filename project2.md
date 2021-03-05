@@ -5,3 +5,4 @@
 
 ![](mtq_pop20_adm12.png)
 
+![](3dplot.png)
