@@ -1,3 +1,3 @@
 
 
-![](histogramofpop20.png)
+![](histogramofpop20.Rplot.png)
