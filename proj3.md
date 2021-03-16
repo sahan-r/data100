@@ -1,1 +1,3 @@
 
+
+![](histogramofpop20.png)
