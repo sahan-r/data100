@@ -16,6 +16,8 @@ My name is Sahan Raghavan and I am a freshman at William and Mary, majoring in n
 
 [Project 2](project2.md)
 
+[Project 3](proj3.md)
+
 ## Informal Reflections
 
 [First Reflection](firstreflection.md)
