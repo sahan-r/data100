@@ -14,6 +14,17 @@ This describes roadways through Khulo
 
 ![](roadwayskhulo.png)
 
-This plot shows healthcare facilites in Khulo. There are 5 hospitals depicted and one pharmacy. 
+This plot shows healthcare facilites in Khulo. There are 5 hospitals depicted and one pharmacy. Three of the hospitals seem to primarily be located on a main highway.
 
 ![](healthcarekhulo.png)
+
+
+
+
+For some reason my Rstudio kept crashing when I tried to add the roads and healthcare facilities to the 3D plot, but this is what I was able to produce:
+
+
+![](othercombined.png)
+
+
+![](second3dkhuloplot.png)
